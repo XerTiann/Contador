@@ -117,10 +117,6 @@ body.oscuro h1 {
     color: black;
 }
 
-body.oscuro .numero input {
-    color: black;
-}
-
 body.oscuro button {
     color: black;
 }
@@ -136,4 +132,5 @@ body.oscuro .dark-light i {
 
 body.oscuro .container {
     background: rgb(255, 255, 255);
+
 }
