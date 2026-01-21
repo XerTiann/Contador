@@ -98,7 +98,7 @@ button:hover {
 }
 
 .cero {
-    color: white;
+    color: black;
 }
 
 .negativo {
@@ -134,3 +134,4 @@ body.oscuro .container {
     background: rgb(255, 255, 255);
 
 }
+
